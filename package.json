@@ -1,0 +1,11 @@
+{
+  "name": "stripe-payment-reconciliation",
+  "version": "2.1.0",
+  "description": "Financial double-entry ledger & payment reconciliation engine",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
